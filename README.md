@@ -1,5 +1,6 @@
 # Smart-Support-v6-Trial
 Ultimate PC Optimization &amp; Game Booster
+"PC Optimization tool to boost FPS, clean RAM, and monitor battery health"
 
 🚀 Smart Support v6.0: Adaptive PC Mastery
 Reclaim your PC's speed. Optimize. Boost. Dominate.
